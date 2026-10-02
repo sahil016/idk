@@ -1,4 +1,10 @@
-<h1 align="center">Hi, I'm Sahil 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:8957E5&height=200&section=header&text=Hi%2C%20I%27m%20Sahil&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Hi, I'm Sahil" />
+</p>
+
+<!-- Optional: your own animated GIF (put it in an assets/ folder in this repo)
+<p align="center"><img src="assets/your-animation.gif" width="320" alt="Animation" /></p>
+-->
 
 <p align="center">
   Software engineering student · Backend developer · Ahmedabad, India
@@ -59,6 +65,11 @@ One or two sentences on what it does and what you built.
 -->
 
 ---
+
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,100:2F81F7&height=100&section=footer" alt="" />
+</p>
 
 <!-- Uncomment when you have more repos and activity:
 ### 📊 GitHub stats
