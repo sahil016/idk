@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sahil016/blob/master/anime-scene.svg" width="100%" alt="Animated night city scene" />
+  ![MultiTaskingGuy](https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67)
 </p>
 
 <p align="center">
