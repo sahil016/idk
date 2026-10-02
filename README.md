@@ -32,7 +32,16 @@
 
 ---
 
-### 🚀 Featured project
+### 🚀 Featured projects
+
+#### 📝 DevBlog: Django Internship Blog &nbsp;·&nbsp; [🌐 Live demo](https://django-internship-blog.onrender.com)
+A Django blog application built during my internship and **deployed live on Render**.
+
+`Django` `Python` `Render`
+
+<!-- Add the source link and 2-3 features, for example:
+[Source code](https://github.com/sahil016/REPO-NAME)
+Features: posts, comments, admin panel, login -->
 
 #### 🛍️ [E-Commerce Clothing Store](https://github.com/sahil016/E-commerce-clothing)
 A Django store with separate **buyer and seller roles**, product management, wishlist, cart and **Razorpay** checkout with server-side payment verification. Password reset uses an expiring email OTP.
