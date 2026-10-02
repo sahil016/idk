@@ -2,9 +2,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:8957E5&height=200&section=header&text=Hi%2C%20I%27m%20Sahil&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Hi, I'm Sahil" />
 </p>
 
-<!-- Optional: your own animated GIF (put it in an assets/ folder in this repo)
-<p align="center"><img src="assets/your-animation.gif" width="320" alt="Animation" /></p>
--->
+<p align="center">
+  <img src="assets/anime-scene.svg" width="100%" alt="Animated night city scene" />
+</p>
 
 <p align="center">
   Software engineering student · Backend developer · Ahmedabad, India
