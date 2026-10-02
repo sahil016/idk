@@ -5,7 +5,12 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sahil016&color=blue&style=flat-square" alt="Profile views" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=2F81F7&center=true&vCenter=true&width=460&lines=Django+backend+developer;Building+full-stack+web+apps;Deploying+projects+live+on+Render" alt="Typing animation" />
+</p>
+
+<p align="center">
+  <a href="https://devblog-app-vhtq.onrender.com"><img src="https://img.shields.io/badge/DevBlog-Live_Demo-2ea44f?style=for-the-badge" alt="DevBlog live demo" /></a>
+  <a href="https://github.com/sahil016/E-commerce-clothing"><img src="https://img.shields.io/badge/E--Commerce-Source_Code-2F81F7?style=for-the-badge" alt="E-commerce source code" /></a>
 </p>
 
 ---
