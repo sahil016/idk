@@ -34,7 +34,7 @@
 
 ### 🚀 Featured projects
 
-#### 📝 DevBlog: Django Internship Blog &nbsp;·&nbsp; [🌐 Live demo](https://django-internship-blog.onrender.com)
+#### 📝 DevBlog: Django Internship Blog &nbsp;·&nbsp; [🌐 Live demo]([https://django-internship-blog.onrender.com](https://devblog-app-vhtq.onrender.com))
 A Django blog application built during my internship and **deployed live on Render**.
 
 `Django` `Python` `Render`
