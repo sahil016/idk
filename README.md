@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sahil016/sahil016/main/assets/anime-scene.svg" width="100%" alt="Animated night city scene" />
+  <img src="https://raw.githubusercontent.com/sahil016/sahil016/main/anime-scene.svg" width="100%" alt="Animated night city scene" />
 </p>
 
 <p align="center">
