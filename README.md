@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  ![MultiTaskingGuy](https://github.com/user-attachments/assets/eba80995-c43b-4282-9058-cda308b42e67)
+  <img src="https://github.com/user-attachments/assets/81246bf0-4911-430b-b71e-55a5d0c8b739" width="100%" alt="River under a rail bridge" />
 </p>
 
 <p align="center">
