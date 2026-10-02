@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2F81F7,100:8957E5&height=200&section=header&text=Hi%2C%20I%27m%20Sahil&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Hi, I'm Sahil" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:5B6C8F,100:D9779F&height=200&section=header&text=Hi%2C%20I%27m%20Sahil&fontSize=48&fontColor=ffffff&fontAlignY=38&animation=fadeIn" alt="Hi, I'm Sahil" />
 </p>
 
 <p align="center">
@@ -11,12 +11,13 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=2F81F7&center=true&vCenter=true&width=460&lines=Django+backend+developer;Building+full-stack+web+apps;Deploying+projects+live+on+Render" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=D9779F&center=true&vCenter=true&width=460&lines=Django+backend+developer;Building+full-stack+web+apps;Deploying+projects+live+on+Render" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <a href="https://devblog-app-vhtq.onrender.com"><img src="https://img.shields.io/badge/DevBlog-Live_Demo-2ea44f?style=for-the-badge" alt="DevBlog live demo" /></a>
-  <a href="https://github.com/sahil016/E-commerce-clothing"><img src="https://img.shields.io/badge/E--Commerce-Source_Code-2F81F7?style=for-the-badge" alt="E-commerce source code" /></a>
+  <a href="https://devblog-app-vhtq.onrender.com"><img src="https://img.shields.io/badge/DevBlog-Live_Demo-5B6C8F?style=for-the-badge" alt="DevBlog live demo" /></a>
+  <a href="https://github.com/sahil016/E-commerce-clothing"><img src="https://img.shields.io/badge/E--Commerce-Source_Code-D9779F?style=for-the-badge" alt="E-commerce source code" /></a>
+  <a href="https://www.linkedin.com/in/sahil-diwan-b4423b219"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
 
 ---
@@ -26,7 +27,7 @@
 - 🎓 Software engineering student who enjoys building backend-focused web apps
 - 🛒 Built a full-stack **e-commerce store** with Django, with payments and OTP-based password reset
 - 🤖 Exploring local AI deployment and automation
-- 📫 Reach me: <!-- add your LinkedIn / email here, for example [LinkedIn](https://linkedin.com/in/your-name) -->
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/sahil-diwan-b4423b219)
 
 ---
 
@@ -68,7 +69,7 @@ One or two sentences on what it does and what you built.
 
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8957E5,100:2F81F7&height=100&section=footer" alt="" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:D9779F,100:5B6C8F&height=100&section=footer" alt="" />
 </p>
 
 <!-- Uncomment when you have more repos and activity:
